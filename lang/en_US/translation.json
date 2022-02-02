@@ -1,0 +1,42 @@
+{
+  "unemploymentCheck.error.canNotWorkWithUs": {
+    "developer_comment": "Unemployment check error CAN_NOT_WORK_WITH_US",
+    "string": "Sorry, unfortunately you cannot use Zenjob if you are registered as unemployed or looking for a job"
+  },
+  "unemploymentCheck.error.onlyStudentSideJobber": {
+    "developer_comment": "Unemployment check error ONLY_STUDENT_SIDE_JOBBER",
+    "string": "Sorry, at the moment we can only work with students or people with a main job"
+  },
+  "unemploymentCheck.option.independent": {
+    "developer_comment": "UnemploymentOption INDEPENDENT",
+    "string": "yes, independent"
+  },
+  "unemploymentCheck.option.minijob": {
+    "developer_comment": "UnemploymentOption MINIJOB",
+    "string": "yes, mimijob"
+  },
+  "unemploymentCheck.option.others": {
+    "developer_comment": "UnemploymentOption OTHERS",
+    "string": "others"
+  },
+  "unemploymentCheck.option.shortTerm": {
+    "developer_comment": "UnemploymentOption SHORT_TERM",
+    "string": "yes,short term"
+  },
+  "unemploymentCheck.option.subjectToLocalInsurance": {
+    "developer_comment": "UnemploymentOption SUBJECT_TO_SOCIAL_INSURANCE",
+    "string": "yes, subject to social insurance"
+  },
+  "unemploymentCheck.option.unemployed": {
+    "developer_comment": "UnemploymentOption UNEMPLOYED",
+    "string": "No, unemployed"
+  },
+  "unemploymentCheck.title": {
+    "developer_comment": "Unemployment check title",
+    "string": "Are you currently employed?"
+  },
+    "unemploymentCheck.title2": {
+    "developer_comment": "Unemployment check title2",
+    "string": "test"
+  }
+}
