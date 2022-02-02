@@ -34,5 +34,9 @@
   "unemploymentCheck.title": {
     "developer_comment": "Unemployment check title",
     "string": "Hast Du aktuell eine Beschäftigung?"
+  },
+    "unemploymentCheck.title2": {
+    "developer_comment": "Unemployment check title2",
+    "string": "Hast Du aktuell eine Beschäftigung ?"
   }
 }
